@@ -1,0 +1,11 @@
+{
+  "name": "eru",
+  "version": "1.0.0",
+  "description": "Chitanda Eru",
+  "main": "index.js",
+  "author": "Me",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
